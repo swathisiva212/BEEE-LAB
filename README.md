@@ -33,36 +33,36 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 a.   KVL:
 
 1.   Connect as per the circuit diagram.
-2.   
-3.   Check if the RPS voltage is set to zero voltage.
-4.   
-5.   Check all the meters for null position.
-6.   
-7.   Switch on the RPS.
-8.   
-9.   Set the input voltage to a value between 0V to 30V.
-10.   
-11.   Record the voltage values shown in the voltmeter connected across each resistor.
-12.   
-13.   Take readings for different values of input voltage and tabulate them.
+  
+2.  Check if the RPS voltage is set to zero voltage.
+  
+3.  Check all the meters for null position.
+  
+4.  Switch on the RPS.
+   
+5.  Set the input voltage to a value between 0V to 30V.
+
+6. Record the voltage values shown in the voltmeter connected across each resistor.
+ 
+7.  Take readings for different values of input voltage and tabulate them.
 
 
 b.  KCL:
 
 1.   Connect as per the circuit diagram.
-2.   
-3.   Check if the RPS voltage is set to zero voltage.
-4.   
-5.   Check all the meters for null position.
-6.   
-7.   Switch on the RPS.
-8.   
-9.   Set the input voltage to a value between 0V to 30V.
-10.   
-11.   Record the voltage values shown in the ammeter connected to each resistor.
-12.   
-13.   Take readings for different values of input voltage and tabulate them.
-14.   
+   
+2.   Check if the RPS voltage is set to zero voltage.
+  
+3.   Check all the meters for null position.
+   
+4.   Switch on the RPS.
+   
+5.   Set the input voltage to a value between 0V to 30V.
+   
+6.   Record the voltage values shown in the ammeter connected to each resistor.
+    
+7.   Take readings for different values of input voltage and tabulate them.
+   
 
 CIRCUIT DIAGRAM:
 
